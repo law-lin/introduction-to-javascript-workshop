@@ -3,6 +3,7 @@
 By Lawrence Lin
 
 Google Sites Page: https://sites.google.com/stonybrook.edu/javascript
+
 CodeSandbox Link: https://codesandbox.io/s/introduction-to-javascript-workshop-7374w?file=/src/index.js
 
 ## Learning Outcomes
