@@ -1,5 +1,6 @@
-// Level 1
-
+/*
+    Introduction to JavaScript Workshop
+*/
 /*
     Comments
     ========
@@ -34,7 +35,7 @@
     More info in the file `Readme.md`
 */
 
-// TODO: Now it's your turn! Try to create an alert with any phrase you want.
+// TODO: Try to create an alert with any phrase you want.
 
 // TODO: Once the alert works for you, comment it out (put '//' on the line
 //       where your code is and save the changes). After you refresh the page,
@@ -88,8 +89,8 @@
     This will pop-up an alert box with the string 'Hello World!'
 */
 
-// TODO: Create 2 new variables, 1 with your name and the 2nd with your age,
-//       give them appropriate names and display them with an alert pop-up box.
+// TODO: Create 2 new variables, 1 with your name and the 2nd with your major,
+//       give them appropriate names and print them to the console.
 
 // TIP: to display both variables at the same time,
 //      you can join them with the '+' sign.
@@ -117,7 +118,7 @@
 //      every time.
 
 /*
-    Maths - Arithmetic Operators
+    Math - Arithmetic Operators
     ============================
     There are a bunch of different 'operators' in programming. Let's have a look
     through arithmetical operators now. JavaScript includes several standard
